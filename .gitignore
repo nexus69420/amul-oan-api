@@ -191,4 +191,6 @@ cython_debug/
 /scripts/*
 /tests/*
 /exploration/*
-/evals/*
+/eval_outputs/
+/evals/__pycache__/
+/evals/GoldenSet.csv
